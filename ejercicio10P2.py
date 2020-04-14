@@ -24,3 +24,4 @@ print(str)
 		
 
 ##### no me convence como quedo apesar de que hace lo que pide el ejercicio , me gustaria tener una solucion mucho mas simple ademas de usar tres condicionales 	
+####eejjeje
